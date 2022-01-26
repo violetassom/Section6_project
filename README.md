@@ -19,3 +19,5 @@
 ## 3. 모델링
 <img width="80%" src="https://user-images.githubusercontent.com/83385561/151099301-dc81294e-1a1d-497e-ad1a-dafe0c33e4dd.png"/>
 
+## 4. 매칭 예시
+<img width="80%" src="https://user-images.githubusercontent.com/83385561/151099596-ff1a01e6-72f4-4876-8320-078a03f13eef.png"/>
