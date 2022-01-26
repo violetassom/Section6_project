@@ -17,6 +17,5 @@
 > ▸ 기업 특성을 입력했을 때, 유사한 정책을 조건문을 통해 유형별 제시 </br>
 
 ## 3. 모델링
-
-
+<img width="80%" src=https://user-images.githubusercontent.com/83385561/151099301-dc81294e-1a1d-497e-ad1a-dafe0c33e4dd.png/>
 
